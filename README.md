@@ -4,7 +4,7 @@
 
 # Flask Skeleton
 
-Flask starter project...
+Flask starter project...this is a demo
 
 ## Quick Start
 
